@@ -58,3 +58,4 @@ upcased_cities = []
      puts key.upcase
 upcased_cities << add_a_key_value_pair
 end
+end
